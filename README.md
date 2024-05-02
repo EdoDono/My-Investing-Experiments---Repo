@@ -13,4 +13,5 @@ The Repositoty contains two main folders: Financial Models (Excel based) and Tra
 The purpose of this Repository is limited to showing and disclosing some of my recent experiments in trading and financial analysis. Anyone who accesses the link to this repository is free to view and re-use the code here. Furthermore, it has been specified for each file (see the last line) whether it was taken from other external sources and subsequently modified, or created entirely by me.  Finally, I again specify that the files in this repo do not have any professional use and do not represent investment advice.
 
 Credit: Edoardo Alberto Donolato
+
 Email: donolatoedoardo@gmail.com
