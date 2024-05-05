@@ -6,7 +6,7 @@ This repo was created specifically to include my trading experiments on various 
 
 **Repo Structure:**
 
-The Repositoty contains two main folders: Financial Models (Excel based) and Trading Strategies (Python based - Jupyter Notebook). The former contains mainly fundamental analyses of public companies, the latter some of the most common statistical arbitrage, relative value and machine learning strategies on various asset classes such as: Equities, Commodities, FX and Indexes. The latter folder is divided into sub-folders according to the strategy applied and the asset class.
+The Repositoty contains two main folders: Financial Models (Excel based) and Trading Strategies (Python based - Jupyter Notebook). The former contains mainly fundamental analyses of public companies, which will be added soon. The latter some of the most common statistical arbitrage, relative value and machine learning strategies on various asset classes such as: Equities, Commodities, FX and Indexes. The latter folder is divided into sub-folders according to the strategy applied and the asset class.
 
 **Purpose:**
 
